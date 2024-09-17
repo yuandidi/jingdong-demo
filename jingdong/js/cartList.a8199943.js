@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjingdong"]=self["webpackChunkjingdong"]||[]).push([[429],{8384:function(n,t,r){function e(n,t,r,e,u,a){return" cartList "}r.r(t),r.d(t,{default:function(){return i}});var u={name:"CartList"},a=r(1241);const c=(0,a.A)(u,[["render",e]]);var i=c}}]);
+//# sourceMappingURL=cartList.a8199943.js.map
